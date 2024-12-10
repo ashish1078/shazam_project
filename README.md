@@ -1,8 +1,10 @@
-"Speech-to-Song Finder"
+"Speech-to-Song Finder".
+
 This Python project is a voice-enabled system that recognizes spoken input in multiple languages (Malayalam, Hindi, English, Kannada, Tamil), detects the language, and searches for related songs on YouTube. 
 Inspired by Shazam, the system displays YouTube links to the user for easy access to songs.
 
 "Features"
+
 -Recognizes spoken words in Malayalam, Hindi, English, Kannada, and Tamil.
 -Detects the language of the speech using AI-based language detection.
 -Searches YouTube for songs or related content based on the detected speech.
@@ -10,6 +12,7 @@ Inspired by Shazam, the system displays YouTube links to the user for easy acces
 
 
 "Technologies Used"
+
 -Python: The core programming language.
 -SpeechRecognition: For converting speech to text.
 -LangDetect: For detecting the language of the spoken text.
